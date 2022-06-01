@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegisterForm", "RegisterForm", "{41998136-5246-44AC-A2BF-106DAE7D0E24}"
+	ProjectSection(SolutionItems) = preProject
+		script.js = script.js
+		style.css = style.css
+		register.html = register.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F333E4AC-D4A6-4575-8905-C9C881EAE7F5}
+	EndGlobalSection
+EndGlobal
